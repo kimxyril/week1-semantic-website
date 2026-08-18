@@ -2,6 +2,8 @@
 
 A simple and responsive restaurant website built using **HTML** and **CSS**. This project showcases a restaurant's homepage and menu with an easy-to-navigate layout.
 
+Live Page : https://kimxyril.github.io/week1-semantic-website/
+
 ## 📌 Features
 
 - Responsive navigation bar
